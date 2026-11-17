@@ -14,7 +14,7 @@ set -euo pipefail
 # =============================================================================
 
 APP_VERSION="latest"
-REPO_RAW="https://raw.githubusercontent.com/hitechcloud-vietnam/cloud-server-open-claw-management/main"
+REPO_RAW="https://raw.githubusercontent.com/hitechcloudvn/cloud-server-open-claw-management/main"
 INSTALL_DIR="/opt/openclaw"
 MGMT_API_DIR="/opt/openclaw-mgmt"
 MGMT_API_PORT=9998
